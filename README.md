@@ -64,9 +64,9 @@ EDA explanation.
 
 ### Modeling
 The following modeling techniques were used:
-Logistic regression
-RandomForest Classification
-DecisionTree Classification
+-Logistic regression
+-RandomForest Classification
+-DecisionTree Classification
 After evaluating the performance of the three models, RandomForest performed better than the rest. It was then tuned using max_depth which even showed slight improvement on the evaluation metrics
 
 
