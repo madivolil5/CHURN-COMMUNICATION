@@ -86,4 +86,4 @@ Below are the links for the varoious documentations for this project
 - Data Set [here](https://www.crowdanalytix.com/contests/why-customer-churn)
 - Data Report [here](https://docs.google.com/document/d/10iNv7Ajx8poz9PXEvR0HqUwtP92XJbQdmwehJqBPvU8/edit#)
 - Notebook [here](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/churn%20prediction.ipynb)
-- Presentaion slides [here]([url](https://www.canva.com/design/DAFXbR6ippQ/MxOiewNURlboaxrXaBawSQ/edit?utm_content=DAFXbR6ippQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- Presentaion slides [here](https://www.canva.com/design/DAFXbR6ippQ/MxOiewNURlboaxrXaBawSQ/edit?utm_content=DAFXbR6ippQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
