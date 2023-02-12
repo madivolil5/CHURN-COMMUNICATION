@@ -85,5 +85,5 @@ After evaluating the performance of the three models, RandomForest performed bet
 Below are the links for the varoious documentations for this project
 - Data Set [here](https://www.crowdanalytix.com/contests/why-customer-churn)
 - Data Report [here](https://docs.google.com/document/d/10iNv7Ajx8poz9PXEvR0HqUwtP92XJbQdmwehJqBPvU8/edit#)
-- Notebook [here](churn prediction.ipynb)
+- Notebook [here](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/churn%20prediction.ipynb)
 - Presentaion slides [here](url)
