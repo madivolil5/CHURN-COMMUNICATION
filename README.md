@@ -1,8 +1,7 @@
 # ARCVIL CHURN PREDICTION
 
 
-![image](git url)
-
+![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/logo.jpg)
 
 ## 1. INTRDUCTION
 ArcVil is a telecommunication company that is US-based. Its aim is to provide efficient and affordable info-communication services to its customers. In recent years, the has been stiff competition in the telecommunication industry. Due to the many competitors offering various produccts in the telecommunication industry, customers have a variety of telecommunication options to chose from. Arcvil therefore wants to maintain its customers base. This is because, the cost of acquiring new customers is higher than the cost of maintaining them. When customers migrate to competitiors, Arcvil's profit is also affected. Management of Arcvil want a predictive model that can accurately predict customers who have the potential to churn
@@ -20,7 +19,7 @@ Come up with various models to predict customers who will churn and choose the b
 Select the best model for predicting using evaluation metrics
 
 ## 3. NOTEBOOK STRUCTURE
-The notebook is [here](git url)
+The notebook is [here](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/churn%20prediction.ipynb)
 The python notebook is structured as follows:
 1. Data understanding
 2. Exploratory Data Analysis
@@ -59,7 +58,8 @@ The following process was followed in order to prepare our data for modeling: -c
 ### Exploratory Data Analysis
 EDA explanation.
 
-![image](git url)
+![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/image%201.JPG)
+
 
 
 ### Modeling
@@ -71,14 +71,23 @@ After evaluating the performance of the three models, RandomForest performed bet
 
 
 
-![image](url for git)
+![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/Random%20tuned.JPG)
 
 
 
 ## 5.CONCLUSIONS 
--
+When coming up with a classification model for customers who churn, random forest is the best algorithm. In order to determine the which customers would churn, the following data is important. 
+-total int charge 
+-international plan
+-total intl minutes 
+-customer service calls 
+-total day charge -total night charge
+![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/last.JPG)
+
+
 ## 6.RECOMMENDATIONS
-- 
+-Arcvil should look into the charges incured by its customers as this could affect their decision to stay with them as a telecommunication company or move to their competitors. Arcvil should offer attractive packages inorder to retain their customers -Arcvil should also take care of the customer service as it affects a customer's decision to stay or not.
+-
 
 
 ## 7.REPOSITORY GUIDE
