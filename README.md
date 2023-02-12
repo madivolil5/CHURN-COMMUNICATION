@@ -56,7 +56,7 @@ The data used in this project was downloaded from [Kaggle](https://www.kaggle.co
 The following process was followed in order to prepare our data for modeling: -checked for duplicated or missing value (our data set did not contain any) -derived new features (total charges) in order to get an overview of how much churner spend vs non-churners. -preprocess data (this involved converting categorical data to appropriate format using LabelEncoder, normalsing the numerical columns using MinMax Scaler and oversampling our data using SMOTE to handle imbalances data between churners and non-churners).
 
 ### Exploratory Data Analysis
-EDA explanation.
+From the analysis it was noted that 14% of the customers had churned. Modeling was then conducted to check to see what could have caused this.
 
 ![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/image%201.JPG)
 
