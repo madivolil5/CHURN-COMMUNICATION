@@ -5,7 +5,7 @@
 
 
 ## 1. INTRDUCTION
-ArcVil is a telecommunication company that is US-based. Its aim is to provide efficient and affordable info-communication services to its customers. In recent years, the has been stiff competitiion in the telecommunication industry. Due to the many competitors offering telecommunication industry, customers have a variety of telecommunication options to chose from. Arcvil therefore wants to maintain its customers base. This is because, the cost of acquiring new customers is higher than the cost of maintaining them. When customers migrate to competitiors, Arcvil's profit is also affected. Management of Arcvil want a predictive model that can accurately predict customers who have the potential to churn
+ArcVil is a telecommunication company that is US-based. Its aim is to provide efficient and affordable info-communication services to its customers. In recent years, the has been stiff competition in the telecommunication industry. Due to the many competitors offering various produccts in the telecommunication industry, customers have a variety of telecommunication options to chose from. Arcvil therefore wants to maintain its customers base. This is because, the cost of acquiring new customers is higher than the cost of maintaining them. When customers migrate to competitiors, Arcvil's profit is also affected. Management of Arcvil want a predictive model that can accurately predict customers who have the potential to churn
 
 ## 2. BUSINESS PROBLEM
 ### The Problem statement
@@ -86,4 +86,4 @@ Below are the links for the varoious documentations for this project
 - Data Set [here](https://www.crowdanalytix.com/contests/why-customer-churn)
 - Data Report [here](https://docs.google.com/document/d/10iNv7Ajx8poz9PXEvR0HqUwtP92XJbQdmwehJqBPvU8/edit#)
 - Notebook [here](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/churn%20prediction.ipynb)
-- Presentaion slides [here](url)
+- Presentaion slides [here]([url](https://www.canva.com/design/DAFXbR6ippQ/MxOiewNURlboaxrXaBawSQ/edit?utm_content=DAFXbR6ippQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
