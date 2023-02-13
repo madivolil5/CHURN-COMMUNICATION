@@ -86,9 +86,7 @@ When coming up with a classification model for customers who churn, random fores
 
 
 ## 6.RECOMMENDATIONS
--Arcvil should look into the charges incured by its customers as this could affect their decision to stay with them as a telecommunication company or move to their competitors. Arcvil should offer attractive packages inorder to retain their customers -Arcvil should also take care of the customer service as it affects a customer's decision to stay or not.
--
-
+Arcvil should look into the charges incured by its customers as this could affect their decision to stay with them as a telecommunication company or move to their competitors. Arcvil should offer attractive packages inorder to retain their customers -Arcvil should also take care of the customer service as it affects a customer's decision to stay or not.
 
 ## 7.REPOSITORY GUIDE
 Below are the links for the varoious documentations for this project
