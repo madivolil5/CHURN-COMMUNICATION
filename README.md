@@ -56,7 +56,7 @@ The data used in this project was downloaded from [Kaggle](https://www.kaggle.co
 The following process was followed in order to prepare our data for modeling: -checked for duplicated or missing value (our data set did not contain any) -derived new features (total charges) in order to get an overview of how much churner spend vs non-churners. -preprocess data (this involved converting categorical data to appropriate format using LabelEncoder, normalsing the numerical columns using MinMax Scaler and oversampling our data using SMOTE to handle imbalances data between churners and non-churners).
 
 ### Exploratory Data Analysis
-EDA explanation.
+From the analysis it was noted that 14% of the customers had churned. Modeling was then conducted to check to see what could have caused this.
 
 ![image](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/data/image%201.JPG)
 
@@ -86,13 +86,11 @@ When coming up with a classification model for customers who churn, random fores
 
 
 ## 6.RECOMMENDATIONS
--Arcvil should look into the charges incured by its customers as this could affect their decision to stay with them as a telecommunication company or move to their competitors. Arcvil should offer attractive packages inorder to retain their customers -Arcvil should also take care of the customer service as it affects a customer's decision to stay or not.
--
-
+Arcvil should look into the charges incured by its customers as this could affect their decision to stay with them as a telecommunication company or move to their competitors. Arcvil should offer attractive packages inorder to retain their customers -Arcvil should also take care of the customer service as it affects a customer's decision to stay or not.
 
 ## 7.REPOSITORY GUIDE
 Below are the links for the varoious documentations for this project
 - Data Set [here](https://www.crowdanalytix.com/contests/why-customer-churn)
 - Data Report [here](https://docs.google.com/document/d/10iNv7Ajx8poz9PXEvR0HqUwtP92XJbQdmwehJqBPvU8/edit#)
 - Notebook [here](https://github.com/madivolil5/CHURN-COMMUNICATION/blob/main/churn%20prediction.ipynb)
-- Presentaion slides [here](https://www.canva.com/design/DAFXbR6ippQ/MxOiewNURlboaxrXaBawSQ/edit?utm_content=DAFXbR6ippQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- Presentaion slides [here](https://www.canva.com/design/DAFXbR6ippQ/MxOiewNURlboaxrXaBawSQ/edit?utm_content=DAFXbR6ippQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
